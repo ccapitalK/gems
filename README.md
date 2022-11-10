@@ -44,3 +44,7 @@ A list of cool/nice things I've found on the internet.
 - [Introduction to MEMS](https://www.lboro.ac.uk/microsites/mechman/research/ipm-ktn/pdf/Technology_review/an-introduction-to-mems.pdf)
 - [The trouble with MEMS](https://semiengineering.com/the-trouble-with-mems/)
 - [Digital Caliper Data Readout](https://www.robotroom.com/Caliper-Digital-Data-Port.html)
+
+## Rendering
+
+- [Color banding in games](https://loopit.dk/banding_in_games.pdf)
