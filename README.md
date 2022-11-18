@@ -30,6 +30,7 @@ A list of cool/nice things I've found on the internet.
 - [-2000 lines](https://www.folklore.org/StoryView.py?story=Negative_2000_Lines_Of_Code.txt)
 - [Aging programmer](https://world.hey.com/jorge/aging-programmer-d448bdec)
 - [My hardest bug ever](https://www.gamedeveloper.com/programming/my-hardest-bug-ever)
+- [A conspiracy to kill IE6](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
 
 ## Computer Engineering
 
