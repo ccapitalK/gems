@@ -1,6 +1,6 @@
 # Gems
 
-A list of cool/nice things I've found on the internet.
+A list of cool articles about computing I've found on the internet.
 
 ## C++
 
