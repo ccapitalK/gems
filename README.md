@@ -49,3 +49,7 @@ A list of cool articles about computing I've found on the internet.
 ## Rendering
 
 - [Color banding in games](https://loopit.dk/banding_in_games.pdf)
+
+## Vim
+
+- [About how to use keywordprg effectively](https://til.codeinthehole.com/posts/about-how-to-use-keywordprg-effectively/)
