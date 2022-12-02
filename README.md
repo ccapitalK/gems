@@ -39,6 +39,7 @@ A list of cool articles about computing I've found on the internet.
 - [Optimizing CSUM Partial in the Linux kernel](https://fenrus75.github.io/csum_partial/)
 - [Writing a Forth in 512 bytes](https://compilercrim.es/bootstrap/miniforth/)
 - [Eisel-Lemire ParseNumberF64 Algorithm](https://nigeltao.github.io/blog/2020/eisel-lemire.html)
+- [Disassembling Jak and Daxter](https://www.codersnotes.com/notes/disassembling-jak/)
 
 ## Hardware
 
