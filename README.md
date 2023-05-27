@@ -14,6 +14,7 @@ A list of cool articles about computing I've found on the internet.
 
 - [Pointer Compression](https://v8.dev/blog/pointer-compression)
 - [Nan-Boxing](https://leonardschuetz.ch/blog/nan-boxing/)
+- [Formal semantics of Node.js Event Loop](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/asyncNodeSemantics.pdf)
 
 ## Algorithms and Data Structures
 
