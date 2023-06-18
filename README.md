@@ -10,6 +10,10 @@ A list of cool articles about computing I've found on the internet.
 - [GDB 15-minute lightning talk](https://www.youtube.com/watch?v=PorfLSr3DDI)
 - [Want fast C++? Know your hardware!](https://www.youtube.com/watch?v=BP6NxVxDQIs)
 
+## Shaders
+
+- [An Introdution to Shader Art Coding](https://www.youtube.com/watch?v=f4s1h2YETNY)
+
 ## Javascript internals
 
 - [Pointer Compression](https://v8.dev/blog/pointer-compression)
