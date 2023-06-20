@@ -29,6 +29,7 @@ A list of cool articles about computing I've found on the internet.
 - [Fibonacci Hashing](https://probablydance.com/2018/06/16/fibonacci-hashing-the-optimization-that-the-world-forgot-or-a-better-alternative-to-integer-modulo/)
 - [Glyphs, shapes, fonts, signed distance fields.](https://www.youtube.com/watch?v=1b5hIMqz_wM)
 - [Buffer Centric IO](https://fgiesen.wordpress.com/2011/11/21/buffer-centric-io/)
+- [Using black magic to make a fast circular buffer](https://lo.calho.st/posts/black-magic-buffer/)
 - [The Magic Ring Buffer](https://fgiesen.wordpress.com/2012/07/21/the-magic-ring-buffer/)
 
 ## Folklore
