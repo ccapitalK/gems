@@ -9,6 +9,7 @@ A list of cool articles about computing I've found on the internet.
 - [C++ atomics, from basic to advanced](https://www.youtube.com/watch?v=ZQFzMfHIxng)
 - [GDB 15-minute lightning talk](https://www.youtube.com/watch?v=PorfLSr3DDI)
 - [Want fast C++? Know your hardware!](https://www.youtube.com/watch?v=BP6NxVxDQIs)
+- [The Most Important Optimizations to Apply in Your C++ Programs](https://www.youtube.com/watch?v=qCjEN5XRzHc)
 
 ## Shaders
 
@@ -20,6 +21,11 @@ A list of cool articles about computing I've found on the internet.
 - [Nan-Boxing](https://leonardschuetz.ch/blog/nan-boxing/)
 - [Formal semantics of Node.js Event Loop](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/asyncNodeSemantics.pdf)
 - [Primer on how V8 and Spidermonkey work](https://itnext.io/is-it-possible-to-improve-javascript-jit-with-an-aot-pre-step-8e25ecb3590f)
+
+## Programming languages
+
+- [Compiling a Lisp](https://bernsteinbear.com/blog/compiling-a-lisp-0/)
+- [Sea Of Nodes](https://darksi.de/d.sea-of-nodes/)
 
 ## Algorithms and Data Structures
 
@@ -62,3 +68,7 @@ A list of cool articles about computing I've found on the internet.
 ## Vim
 
 - [About how to use keywordprg effectively](https://til.codeinthehole.com/posts/about-how-to-use-keywordprg-effectively/)
+
+## Optimization
+
+- [A great Old-Timey Game-Programming Hack](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
