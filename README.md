@@ -10,6 +10,10 @@ A list of cool articles about computing I've found on the internet.
 - [GDB 15-minute lightning talk](https://www.youtube.com/watch?v=PorfLSr3DDI)
 - [Want fast C++? Know your hardware!](https://www.youtube.com/watch?v=BP6NxVxDQIs)
 - [The Most Important Optimizations to Apply in Your C++ Programs](https://www.youtube.com/watch?v=qCjEN5XRzHc)
+- Pointer provenance
+  - [Part 1](https://www.ralfj.de/blog/2018/07/24/pointers-and-bytes.html)
+  - [Part 2](https://www.ralfj.de/blog/2020/12/14/provenance.html)
+  - [Part 3](https://www.ralfj.de/blog/2022/04/11/provenance-exposed.html)
 
 ## Shaders
 
