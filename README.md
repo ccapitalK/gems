@@ -48,6 +48,7 @@ A list of cool articles about computing I've found on the internet.
 - [Aging programmer](https://world.hey.com/jorge/aging-programmer-d448bdec)
 - [My hardest bug ever](https://www.gamedeveloper.com/programming/my-hardest-bug-ever)
 - [A conspiracy to kill IE6](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
+- [Things you should never do Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) (How Netscape died)
 
 ## Computer Engineering
 
