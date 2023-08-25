@@ -30,6 +30,7 @@ A list of cool articles about computing I've found on the internet.
 
 - [Compiling a Lisp](https://bernsteinbear.com/blog/compiling-a-lisp-0/)
 - [Sea Of Nodes](https://darksi.de/d.sea-of-nodes/)
+- [How an optimizing compiler works](https://www.lihaoyi.com/post/HowanOptimizingCompilerWorks.html)
 
 ## Algorithms and Data Structures
 
