@@ -71,6 +71,10 @@ A list of cool articles about computing I've found on the internet.
 
 - [Color banding in games](https://loopit.dk/banding_in_games.pdf)
 
+## Distributed Systems
+
+- [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+
 ## Vim
 
 - [About how to use keywordprg effectively](https://til.codeinthehole.com/posts/about-how-to-use-keywordprg-effectively/)
