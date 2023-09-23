@@ -51,6 +51,7 @@ A list of cool articles about computing I've found on the internet.
 - [A conspiracy to kill IE6](https://blog.chriszacharias.com/a-conspiracy-to-kill-ie6)
 - [Things you should never do Part I](https://www.joelonsoftware.com/2000/04/06/things-you-should-never-do-part-i/) (How Netscape died)
 - [(How to Write a (Lisp) Interpreter (in Python))](https://norvig.com/lispy.html)
+- [Knightmare (How a trading company lost $440 million USD in 45 minutes)](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
 
 ## Computer Engineering
 
