@@ -2,6 +2,10 @@
 
 A list of cool articles about computing I've found on the internet.
 
+## Software engineering
+
+- [Data vs Code (aka Objects) OOP conflation and confusion](https://dpc.pw/posts/data-vs-code-aka-objects-oop-conflation-and-confusion)
+
 ## C++
 
 - [C++ in the Audio Industry](https://www.youtube.com/watch?v=boPEO2auJj4)
