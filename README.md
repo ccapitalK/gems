@@ -66,6 +66,7 @@ A list of cool articles about computing I've found on the internet.
 - [Eisel-Lemire ParseNumberF64 Algorithm](https://nigeltao.github.io/blog/2020/eisel-lemire.html)
 - [Disassembling Jak and Daxter](https://www.codersnotes.com/notes/disassembling-jak/)
 - [Bit hacks](https://graphics.stanford.edu/~seander/bithacks.html)
+- [How to make a CPU](https://blog.robertelder.org/how-to-make-a-cpu/)
 
 ## Hardware
 
