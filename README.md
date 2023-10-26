@@ -6,6 +6,9 @@ A list of cool articles about computing I've found on the internet.
 
 - [Data vs Code (aka Objects) OOP conflation and confusion](https://dpc.pw/posts/data-vs-code-aka-objects-oop-conflation-and-confusion)
 
+## Games
+
+- [Game AI Pro book series](https://www.gameaipro.com/)
 ## C++
 
 - [C++ in the Audio Industry](https://www.youtube.com/watch?v=boPEO2auJj4)
