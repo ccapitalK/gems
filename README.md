@@ -78,6 +78,10 @@ A list of cool articles about computing I've found on the internet.
 - [The trouble with MEMS](https://semiengineering.com/the-trouble-with-mems/)
 - [Digital Caliper Data Readout](https://www.robotroom.com/Caliper-Digital-Data-Port.html)
 
+## Math
+
+- [The Most Important Counting Concept You’ve (Probably) Never Heard Of](https://www.youtube.com/watch?v=uxjAHkn4VFI)
+
 ## Rendering
 
 - [Color banding in games](https://loopit.dk/banding_in_games.pdf)
