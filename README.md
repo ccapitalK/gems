@@ -9,6 +9,7 @@ A list of cool articles about computing I've found on the internet.
 ## Games
 
 - [Game AI Pro book series](https://www.gameaipro.com/)
+
 ## C++
 
 - [C++ in the Audio Industry](https://www.youtube.com/watch?v=boPEO2auJj4)
@@ -81,9 +82,10 @@ A list of cool articles about computing I've found on the internet.
 
 - [Color banding in games](https://loopit.dk/banding_in_games.pdf)
 
-## Distributed Systems
+## Networks and Distributed Systems
 
 - [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
+- [Beej's guide to network programming](https://beej.us/guide/bgnet/html/)
 
 ## Vim
 
