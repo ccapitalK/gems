@@ -6,6 +6,10 @@ A list of cool articles about computing I've found on the internet.
 
 - [Data vs Code (aka Objects) OOP conflation and confusion](https://dpc.pw/posts/data-vs-code-aka-objects-oop-conflation-and-confusion)
 
+## Machine Learning/AI
+
+- [But what is a neural network really?](https://www.youtube.com/watch?v=FBpPjjhJGhk)
+
 ## Games
 
 - [Game AI Pro book series](https://www.gameaipro.com/)
