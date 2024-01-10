@@ -93,6 +93,7 @@ A list of cool articles about computing I've found on the internet.
 
 ## Networks and Distributed Systems
 
+- [Hosting sqlite databases on GitHub pages](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
 - [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 - [Beej's guide to network programming](https://beej.us/guide/bgnet/html/)
 
