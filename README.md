@@ -54,6 +54,7 @@ A list of cool articles about computing I've found on the internet.
 - [Buffer Centric IO](https://fgiesen.wordpress.com/2011/11/21/buffer-centric-io/)
 - [Using black magic to make a fast circular buffer](https://lo.calho.st/posts/black-magic-buffer/)
 - [The Magic Ring Buffer](https://fgiesen.wordpress.com/2012/07/21/the-magic-ring-buffer/)
+- [Lomuto's comeback (branchless quicksort partitioning)](https://dlang.org/blog/2020/05/14/lomutos-comeback/)
 
 ## Folklore
 
