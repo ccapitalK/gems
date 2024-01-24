@@ -66,6 +66,7 @@ A list of cool articles about computing I've found on the internet.
 - [(How to Write a (Lisp) Interpreter (in Python))](https://norvig.com/lispy.html)
 - [Knightmare (How a trading company lost $440 million USD in 45 minutes)](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
 - [The Graphing Calculator Story](http://www.pacifict.com/Story/)
+- [Xerox scanners randomly alter numbers in scanned document](https://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning)
 
 ## Computer Engineering
 
