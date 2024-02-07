@@ -67,6 +67,7 @@ A list of cool articles about computing I've found on the internet.
 - [Knightmare (How a trading company lost $440 million USD in 45 minutes)](https://dougseven.com/2014/04/17/knightmare-a-devops-cautionary-tale/)
 - [The Graphing Calculator Story](http://www.pacifict.com/Story/)
 - [Xerox scanners randomly alter numbers in scanned document](https://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning)
+- [The little SSH that (sometimes) couldn't](https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html)
 
 ## Computer Engineering
 
