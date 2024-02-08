@@ -80,6 +80,7 @@ A list of cool articles about computing I've found on the internet.
 - [Disassembling Jak and Daxter](https://www.codersnotes.com/notes/disassembling-jak/)
 - [Bit hacks](https://graphics.stanford.edu/~seander/bithacks.html)
 - [How to make a CPU](https://blog.robertelder.org/how-to-make-a-cpu/)
+- [Recognising patterns in memory](https://www.timdbg.com/posts/recognizing-patterns/)
 
 ## Hardware
 
