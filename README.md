@@ -5,6 +5,7 @@ A list of cool articles about computing I've found on the internet.
 ## Software engineering
 
 - [Data vs Code (aka Objects) OOP conflation and confusion](https://dpc.pw/posts/data-vs-code-aka-objects-oop-conflation-and-confusion)
+- [The absolute minimum every software developer must know about unicode](https://tonsky.me/blog/unicode/)
 
 ## Machine Learning/AI
 
