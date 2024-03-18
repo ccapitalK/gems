@@ -83,6 +83,7 @@ A list of cool articles about computing I've found on the internet.
 - [How to make a CPU](https://blog.robertelder.org/how-to-make-a-cpu/)
 - [Recognising patterns in memory](https://www.timdbg.com/posts/recognizing-patterns/)
 - [Architecture of consoles by Copetti](https://www.copetti.org/writings/consoles/)
+- [Agner software optimization guides](https://www.agner.org/optimize)
 
 ## Hardware
 
