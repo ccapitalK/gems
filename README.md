@@ -2,6 +2,10 @@
 
 A list of cool articles about computing I've found on the internet.
 
+# Image/Video processing
+
+- [H264 is magic](https://sidbala.com/h-264-is-magic/)
+
 ## Software engineering
 
 - [Data vs Code (aka Objects) OOP conflation and confusion](https://dpc.pw/posts/data-vs-code-aka-objects-oop-conflation-and-confusion)
