@@ -88,6 +88,7 @@ A list of cool articles about computing I've found on the internet.
 - [Recognising patterns in memory](https://www.timdbg.com/posts/recognizing-patterns/)
 - [Architecture of consoles by Copetti](https://www.copetti.org/writings/consoles/)
 - [Agner software optimization guides](https://www.agner.org/optimize)
+- [Ubershaders: A Ridiculous Solution to an Impossible Problem](https://dolphin-emu.org/blog/2017/07/30/ubershaders/)
 
 ## Hardware
 
