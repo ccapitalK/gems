@@ -51,6 +51,7 @@ A list of cool articles about computing I've found on the internet.
 
 ## Algorithms and Data Structures
 
+- [Algorithms for Modern Hardware](https://en.algorithmica.org/hpc/)
 - [Alpha Max + Beta Min Algorithm](https://en.wikipedia.org/wiki/Alpha_max_plus_beta_min_algorithm)
 - [5000x faster CRDTs](https://josephg.com/blog/crdts-go-brrr/)
 - [CRDT Optimizations](https://bartoszsypytkowski.com/crdt-optimizations/)
