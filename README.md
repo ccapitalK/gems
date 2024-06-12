@@ -32,9 +32,10 @@ A list of cool articles about computing I've found on the internet.
   - [Part 2](https://www.ralfj.de/blog/2020/12/14/provenance.html)
   - [Part 3](https://www.ralfj.de/blog/2022/04/11/provenance-exposed.html)
 
-## Shaders
+## Graphics
 
 - [An Introdution to Shader Art Coding](https://www.youtube.com/watch?v=f4s1h2YETNY)
+- [Doom 2016 graphics study](https://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/)
 
 ## Javascript internals
 
