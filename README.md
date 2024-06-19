@@ -1,6 +1,6 @@
 # Gems
 
-A list of cool articles about computing I've found on the internet.
+A (non-exhaustive) list of cool articles about computing I've found on the internet.
 
 # Image/Video processing
 
