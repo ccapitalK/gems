@@ -94,6 +94,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Architecture of consoles by Copetti](https://www.copetti.org/writings/consoles/)
 - [Agner software optimization guides](https://www.agner.org/optimize)
 - [Ubershaders: A Ridiculous Solution to an Impossible Problem](https://dolphin-emu.org/blog/2017/07/30/ubershaders/)
+- [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)
 
 ## Hardware
 
