@@ -52,6 +52,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [How an optimizing compiler works](https://www.lihaoyi.com/post/HowanOptimizingCompilerWorks.html)
 - [Computed Goto for efficient dispatch tables](https://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables)
 - [Forsp: A Forth+Lisp Hybrid Lambda Calculus Language](https://xorvoid.com/forsp.html)
+- [Beating the compiler](https://www.mattkeeter.com/blog/2024-07-12-interpreter/)
 
 ## Algorithms and Data Structures
 
