@@ -117,6 +117,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 - [The power of two random choices](https://brooker.co.za/blog/2012/01/17/two-random.html)
 - [Beej's guide to network programming](https://beej.us/guide/bgnet/html/)
+- [The actual osi model](https://computer.rip/2021-03-27-the-actual-osi-model.html)
 
 ## Vim
 
