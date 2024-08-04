@@ -34,6 +34,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 
 ## Graphics
 
+- [GPU-friendly Stroke Expansion](https://arxiv.org/pdf/2405.00127)
 - [An Introdution to Shader Art Coding](https://www.youtube.com/watch?v=f4s1h2YETNY)
 - [Doom 2016 graphics study](https://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/)
 - [Optimizing Software Occlusion Culling](https://fgiesen.wordpress.com/2013/02/17/optimizing-sw-occlusion-culling-index/)
