@@ -121,6 +121,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [The power of two random choices](https://brooker.co.za/blog/2012/01/17/two-random.html)
 - [Beej's guide to network programming](https://beej.us/guide/bgnet/html/)
 - [The actual osi model](https://computer.rip/2021-03-27-the-actual-osi-model.html)
+- [GPS](https://ciechanow.ski/gps/)
 
 ## Vim
 
