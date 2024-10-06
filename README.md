@@ -56,6 +56,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Computed Goto for efficient dispatch tables](https://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables)
 - [Forsp: A Forth+Lisp Hybrid Lambda Calculus Language](https://xorvoid.com/forsp.html)
 - [Beating the compiler](https://www.mattkeeter.com/blog/2024-07-12-interpreter/)
+- [Pratt parsers: expression parsing made easy](https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/)
 
 ## Algorithms and Data Structures
 
