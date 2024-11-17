@@ -40,6 +40,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Doom 2016 graphics study](https://www.adriancourreges.com/blog/2016/09/09/doom-2016-graphics-study/)
 - [Optimizing Software Occlusion Culling](https://fgiesen.wordpress.com/2013/02/17/optimizing-sw-occlusion-culling-index/)
 - [GPU Architecture Resources](https://interplayoflight.wordpress.com/2020/05/09/gpu-architecture-resources/)
+- [Implementing Order-Independent Transparency](https://osor.io/OIT)
 
 ## Javascript internals
 
