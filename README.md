@@ -41,6 +41,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Optimizing Software Occlusion Culling](https://fgiesen.wordpress.com/2013/02/17/optimizing-sw-occlusion-culling-index/)
 - [GPU Architecture Resources](https://interplayoflight.wordpress.com/2020/05/09/gpu-architecture-resources/)
 - [Implementing Order-Independent Transparency](https://osor.io/OIT)
+- [On NVIDIA's Tile-Based Rendering](https://www.techpowerup.com/231129/on-nvidias-tile-based-rendering)
 
 ## Javascript internals
 
