@@ -42,6 +42,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [GPU Architecture Resources](https://interplayoflight.wordpress.com/2020/05/09/gpu-architecture-resources/)
 - [Implementing Order-Independent Transparency](https://osor.io/OIT)
 - [On NVIDIA's Tile-Based Rendering](https://www.techpowerup.com/231129/on-nvidias-tile-based-rendering)
+- [How to (and how not to) fix color banding](https://blog.frost.kiwi/GLSL-noise-and-radial-gradient/)
 
 ## Javascript internals
 
