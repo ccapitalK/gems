@@ -113,6 +113,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 ## Math
 
 - [The Most Important Counting Concept You’ve (Probably) Never Heard Of](https://www.youtube.com/watch?v=uxjAHkn4VFI)
+- [A calculator app? Anyone could make that.](https://chadnauseam.com/coding/random/calculator-app)
 
 ## Rendering
 
