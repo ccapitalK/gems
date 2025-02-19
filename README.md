@@ -128,6 +128,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [The actual osi model](https://computer.rip/2021-03-27-the-actual-osi-model.html)
 - [GPS](https://ciechanow.ski/gps/)
 - [Determinism in League of Legends](https://technology.riotgames.com/news/determinism-league-legends-implementation)
+- [SSDs have become ridiculously fast, except in the cloud](https://databasearchitects.blogspot.com/2024/02/ssds-have-become-ridiculously-fast.html?m=1)
 
 ## Vim
 
