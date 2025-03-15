@@ -5,6 +5,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 # Image/Video processing
 
 - [H264 is magic](https://sidbala.com/h-264-is-magic/)
+- [Laplacian Pyramid Blending](https://www.youtube.com/watch?v=U7qa7i0K9C4)
 
 ## Software engineering
 
