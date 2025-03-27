@@ -107,7 +107,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Ubershaders: A Ridiculous Solution to an Impossible Problem](https://dolphin-emu.org/blog/2017/07/30/ubershaders/)
 - [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)
 - [An easy-to-implement, arena-friendly hash map](https://nullprogram.com/blog/2023/09/30/)
-- [Low, Lower, Lowest level Programming (Physical address spaces)](https://m.youtube.com/watch?v=-uZRiTgqQRU)
+- [Low, Lower, Lowest level Programming (Physical address spaces)](https://www.youtube.com/watch?v=-uZRiTgqQRU)
 
 ## Hardware
 
