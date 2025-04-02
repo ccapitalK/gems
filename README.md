@@ -13,6 +13,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [The absolute minimum every software developer must know about unicode](https://tonsky.me/blog/unicode/)
 - [Performance Excuses Debunked](https://www.youtube.com/watch?v=x2EOOJg8FkA)
 - [Dependency Injection, The Best Pattern](https://www.youtube.com/watch?v=J1f5b4vcxCQ)
+- [Game programming patterns](https://gameprogrammingpatterns.com/contents.html)
 
 ## Machine Learning/AI
 
