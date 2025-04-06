@@ -136,6 +136,10 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Determinism in League of Legends](https://technology.riotgames.com/news/determinism-league-legends-implementation)
 - [SSDs have become ridiculously fast, except in the cloud](https://databasearchitects.blogspot.com/2024/02/ssds-have-become-ridiculously-fast.html?m=1)
 
+## Shell
+
+- [The Ultimate Awk Tutorial: Get Awk Once And For All!](https://www.youtube.com/watch?v=Dr0zFRswrwk)
+
 ## Vim
 
 - [About how to use keywordprg effectively](https://til.codeinthehole.com/posts/about-how-to-use-keywordprg-effectively/)
