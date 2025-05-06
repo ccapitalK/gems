@@ -46,6 +46,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Implementing Order-Independent Transparency](https://osor.io/OIT)
 - [On NVIDIA's Tile-Based Rendering](https://www.techpowerup.com/231129/on-nvidias-tile-based-rendering)
 - [How to (and how not to) fix color banding](https://blog.frost.kiwi/GLSL-noise-and-radial-gradient/)
+- [Analyzing Modern NVIDIA GPU cores](https://arxiv.org/pdf/2503.20481)
 
 ## Javascript internals
 
