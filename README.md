@@ -148,3 +148,4 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 ## Optimization
 
 - [A great Old-Timey Game-Programming Hack](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
+- [Evolution of zero copy in kernel space](https://codemia.io/blog/path/Zero-Copy-IO-From-sendfile-to-iouring--Evolution-and-Impact-on-Latency-in-Distributed-Logs)
