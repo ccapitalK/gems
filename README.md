@@ -110,6 +110,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)
 - [An easy-to-implement, arena-friendly hash map](https://nullprogram.com/blog/2023/09/30/)
 - [Low, Lower, Lowest level Programming (Physical address spaces)](https://www.youtube.com/watch?v=-uZRiTgqQRU)
+- [Wikichip - Zen](https://en.wikichip.org/wiki/amd/microarchitectures/zen)
 
 ## Hardware
 
@@ -119,10 +120,11 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 
 ## Math
 
-- [The Most Important Counting Concept You’ve (Probably) Never Heard Of](https://www.youtube.com/watch?v=uxjAHkn4VFI)
+- [The Most Important Counting Concept You’ve (Probably) Never Heard Of](https://www.youtube.com/watch?v=uxjAHkn4VFI) (Bijections)
 - [A calculator app? Anyone could make that.](https://chadnauseam.com/coding/random/calculator-app)
 - [MCMC without all the bullshit](https://www.jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
 - [Trust (Game theory)](https://ncase.me/trust/)
+- [Introduction to Thompson Sampling: the Bernoulli bandit](https://gdmarmerola.github.io//ts-for-bernoulli-bandit/)
 
 ## Rendering
 
@@ -139,12 +141,10 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Determinism in League of Legends](https://technology.riotgames.com/news/determinism-league-legends-implementation)
 - [SSDs have become ridiculously fast, except in the cloud](https://databasearchitects.blogspot.com/2024/02/ssds-have-become-ridiculously-fast.html?m=1)
 
-## Shell
+## Linux/Shell
 
 - [The Ultimate Awk Tutorial: Get Awk Once And For All!](https://www.youtube.com/watch?v=Dr0zFRswrwk)
-
-## Vim
-
+- [The Ultimate Interactive JQ Guide](https://ishan.page/blog/2023-11-06-jq-by-example/)
 - [About how to use keywordprg effectively](https://til.codeinthehole.com/posts/about-how-to-use-keywordprg-effectively/)
 
 ## Optimization
