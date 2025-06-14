@@ -14,6 +14,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Performance Excuses Debunked](https://www.youtube.com/watch?v=x2EOOJg8FkA)
 - [Dependency Injection, The Best Pattern](https://www.youtube.com/watch?v=J1f5b4vcxCQ)
 - [Game programming patterns](https://gameprogrammingpatterns.com/contents.html)
+- [Code is run more than read](https://olano.dev/blog/code-is-run-more-than-read/)
 
 ## Machine Learning/AI
 
