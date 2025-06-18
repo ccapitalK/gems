@@ -94,6 +94,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Xerox scanners randomly alter numbers in scanned document](https://www.dkriesel.com/en/blog/2013/0802_xerox-workcentres_are_switching_written_numbers_when_scanning)
 - [The little SSH that (sometimes) couldn't](https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html)
 - [The Best Debugging Story I’ve Ever Heard](https://patrickthomson.tumblr.com/post/2499755681/the-best-debugging-story-ive-ever-heard)
+- [The Grug Brained Developer](https://grugbrain.dev/)
 
 ## Computer Engineering
 
