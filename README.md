@@ -95,6 +95,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [The little SSH that (sometimes) couldn't](https://mina.naguib.ca/blog/2012/10/22/the-little-ssh-that-sometimes-couldnt.html)
 - [The Best Debugging Story I’ve Ever Heard](https://patrickthomson.tumblr.com/post/2499755681/the-best-debugging-story-ive-ever-heard)
 - [The Grug Brained Developer](https://grugbrain.dev/)
+- [Rise of the expert beginner](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/)
 
 ## Computer Engineering
 
