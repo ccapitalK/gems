@@ -23,6 +23,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 ## Games
 
 - [Game AI Pro book series](https://www.gameaipro.com/)
+- [3D Math Primer for Graphics and Game Development](https://gamemath.com/book/)
 
 ## C++
 
