@@ -152,6 +152,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [The Ultimate Awk Tutorial: Get Awk Once And For All!](https://www.youtube.com/watch?v=Dr0zFRswrwk)
 - [The Ultimate Interactive JQ Guide](https://ishan.page/blog/2023-11-06-jq-by-example/)
 - [About how to use keywordprg effectively](https://til.codeinthehole.com/posts/about-how-to-use-keywordprg-effectively/)
+- [Insufficiently known POSIX shell features](https://apenwarr.ca/log/20110228)
 
 ## Optimization
 
