@@ -132,6 +132,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [MCMC without all the bullshit](https://www.jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
 - [Trust (Game theory)](https://ncase.me/trust/)
 - [Introduction to Thompson Sampling: the Bernoulli bandit](https://gdmarmerola.github.io//ts-for-bernoulli-bandit/)
+- [The book of statistical proofs](https://statproofbook.github.io/I/ToC)
 
 ## Rendering
 
