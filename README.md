@@ -97,6 +97,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [The Best Debugging Story I’ve Ever Heard](https://patrickthomson.tumblr.com/post/2499755681/the-best-debugging-story-ive-ever-heard)
 - [The Grug Brained Developer](https://grugbrain.dev/)
 - [Rise of the expert beginner](https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/)
+- [Writing Toy Software Is A Joy](https://blog.jsbarretto.com/post/software-is-joy)
 
 ## Computer Engineering
 
