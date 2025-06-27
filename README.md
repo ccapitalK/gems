@@ -118,6 +118,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Low, Lower, Lowest level Programming (Physical address spaces)](https://www.youtube.com/watch?v=-uZRiTgqQRU)
 - [Wikichip - Zen](https://en.wikichip.org/wiki/amd/microarchitectures/zen)
 - [Garbage Collection for Systems Programmers (RCU)](https://bitbashing.io/gc-for-systems-programmers.html)
+- [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/)
 
 ## Hardware
 
