@@ -134,6 +134,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Trust (Game theory)](https://ncase.me/trust/)
 - [Introduction to Thompson Sampling: the Bernoulli bandit](https://gdmarmerola.github.io//ts-for-bernoulli-bandit/)
 - [The book of statistical proofs](https://statproofbook.github.io/I/ToC)
+- [Entropy of a Mixture](https://cgad.ski/blog/entropy-of-a-mixture.html)
 
 ## Rendering
 
