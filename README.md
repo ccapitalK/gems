@@ -127,6 +127,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Introduction to MEMS](https://www.lboro.ac.uk/microsites/mechman/research/ipm-ktn/pdf/Technology_review/an-introduction-to-mems.pdf)
 - [The trouble with MEMS](https://semiengineering.com/the-trouble-with-mems/)
 - [Digital Caliper Data Readout](https://www.robotroom.com/Caliper-Digital-Data-Port.html)
+- [Ground vs Earth vs Common vs Negative Terminal](https://electronics.stackexchange.com/questions/123906/ground-vs-earth-vs-common-vs-negative-terminal)
 
 ## Math
 
