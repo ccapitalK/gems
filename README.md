@@ -50,6 +50,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [On NVIDIA's Tile-Based Rendering](https://www.techpowerup.com/231129/on-nvidias-tile-based-rendering)
 - [How to (and how not to) fix color banding](https://blog.frost.kiwi/GLSL-noise-and-radial-gradient/)
 - [Analyzing Modern NVIDIA GPU cores](https://arxiv.org/pdf/2503.20481)
+- [Color banding in games](https://loopit.dk/banding_in_games.pdf)
 - [Shader Academy - Learn computer graphics by solving challenges](https://shaderacademy.com/explore)
 
 ## Javascript internals
@@ -138,10 +139,6 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Introduction to Thompson Sampling: the Bernoulli bandit](https://gdmarmerola.github.io//ts-for-bernoulli-bandit/)
 - [The book of statistical proofs](https://statproofbook.github.io/I/ToC)
 - [Entropy of a Mixture](https://cgad.ski/blog/entropy-of-a-mixture.html)
-
-## Rendering
-
-- [Color banding in games](https://loopit.dk/banding_in_games.pdf)
 
 ## Networks and Distributed Systems
 
