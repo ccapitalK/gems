@@ -52,6 +52,8 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Analyzing Modern NVIDIA GPU cores](https://arxiv.org/pdf/2503.20481)
 - [Color banding in games](https://loopit.dk/banding_in_games.pdf)
 - [Shader Academy - Learn computer graphics by solving challenges](https://shaderacademy.com/explore)
+- [2D Distance functions](https://iquilezles.org/articles/distfunctions2d/)
+- [Video Game Blurs (and how the best one works)](https://blog.frost.kiwi/dual-kawase/)
 
 ## Javascript internals
 
