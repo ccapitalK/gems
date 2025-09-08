@@ -54,6 +54,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Shader Academy - Learn computer graphics by solving challenges](https://shaderacademy.com/explore)
 - [2D Distance functions](https://iquilezles.org/articles/distfunctions2d/)
 - [Video Game Blurs (and how the best one works)](https://blog.frost.kiwi/dual-kawase/)
+- [Beware of transparent pixels (Prefer premultiplied alpha)](https://www.adriancourreges.com/blog/2017/05/09/beware-of-transparent-pixels/)
 
 ## Javascript internals
 
