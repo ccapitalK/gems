@@ -25,6 +25,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Game AI Pro book series](https://www.gameaipro.com/)
 - [3D Math Primer for Graphics and Game Development](https://gamemath.com/book/)
 - [How 1999 Quake 3 Teaches Elite Software Engineering](https://www.youtube.com/watch?v=NeLkxuzCssA)
+- [Overwatch Gameplay Architecture and Netcode](https://www.youtube.com/watch?v=W3aieHjyNvw)
 
 ## C++
 
