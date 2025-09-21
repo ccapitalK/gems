@@ -169,3 +169,4 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Evolution of zero copy in kernel space](https://codemia.io/blog/path/Zero-Copy-IO-From-sendfile-to-iouring--Evolution-and-Impact-on-Latency-in-Distributed-Logs)
 - [A leap year in three instructions](
 https://hueffner.de/falk/blog/a-leap-year-check-in-three-instructions.html)
+- [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
