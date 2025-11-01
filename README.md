@@ -135,6 +135,10 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Digital Caliper Data Readout](https://www.robotroom.com/Caliper-Digital-Data-Port.html)
 - [Ground vs Earth vs Common vs Negative Terminal](https://electronics.stackexchange.com/questions/123906/ground-vs-earth-vs-common-vs-negative-terminal)
 
+## Deep Learning
+
+- [The Bug that taught me pytorch](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/)
+
 ## Math
 
 - [The Most Important Counting Concept You’ve (Probably) Never Heard Of](https://www.youtube.com/watch?v=uxjAHkn4VFI) (Bijections)
