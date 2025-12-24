@@ -16,6 +16,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Game programming patterns](https://gameprogrammingpatterns.com/contents.html)
 - [Code is run more than read](https://olano.dev/blog/code-is-run-more-than-read/)
 - [What does OO afford?](https://sandimetz.com/blog/2018/21/what-does-oo-afford)
+- [What actually makes you senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/)
 
 ## Machine Learning/AI
 
