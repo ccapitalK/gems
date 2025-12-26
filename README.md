@@ -62,6 +62,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Accelerated Ray Tracing in One Weekend in CUDA](https://developer.nvidia.com/blog/accelerated-ray-tracing-cuda/)
 - [A Swift Introduction to Projective Geometric Algebra](https://www.youtube.com/watch?v=0i3ocLhbxJ4)
 - [Look, Ma, No Matrices!](https://enkimute.github.io/LookMaNoMatrices/)
+- [No Graphics API (The evolution of graphics APIs, and what a modern one would look like)](https://www.sebastianaaltonen.com/blog/no-graphics-api)
 
 ## Javascript internals
 
