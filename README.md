@@ -18,6 +18,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [What does OO afford?](https://sandimetz.com/blog/2018/21/what-does-oo-afford)
 - [What actually makes you senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/)
 - [The One-True-Way Fallacy: Why Mature Developers Don’t Worship a Single Programming Paradigm](https://www.coderancher.us/2025/11/05/the-one-true-way-fallacy-why-mature-developers-dont-worship-a-single-programming-paradigm/)
+- [Cold Blooded Software](https://dubroy.com/blog/cold-blooded-software/)
 
 ## Machine Learning/AI
 
