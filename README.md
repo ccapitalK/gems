@@ -31,6 +31,11 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [How 1999 Quake 3 Teaches Elite Software Engineering](https://www.youtube.com/watch?v=NeLkxuzCssA)
 - [Overwatch Gameplay Architecture and Netcode](https://www.youtube.com/watch?v=W3aieHjyNvw)
 
+## Rust
+
+- [Futurelock (Async cancellation deadlocks)](https://rfd.shared.oxide.computer/rfd/0609)
+- [Wild Performance Tricks](https://davidlattimore.github.io/posts/2025/09/02/rustforge-wild-performance-tricks.html)
+
 ## C++
 
 - [C++ in the Audio Industry](https://www.youtube.com/watch?v=boPEO2auJj4)
