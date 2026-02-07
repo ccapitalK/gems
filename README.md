@@ -152,6 +152,11 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Digital Caliper Data Readout](https://www.robotroom.com/Caliper-Digital-Data-Port.html)
 - [Ground vs Earth vs Common vs Negative Terminal](https://electronics.stackexchange.com/questions/123906/ground-vs-earth-vs-common-vs-negative-terminal)
 
+## Academics
+
+- [How to Write a Paper in a Weekend (By Prof. Pete Carr)](https://www.youtube.com/watch?v=UY7sVKJPTMA)
+- [How to Read a Paper Efficiently (By Prof. Pete Carr) ](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y)
+
 ## Deep Learning
 
 - [The Bug that taught me pytorch](https://elanapearl.github.io/blog/2025/the-bug-that-taught-me-pytorch/)
