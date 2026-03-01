@@ -156,6 +156,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 
 - [How to Write a Paper in a Weekend (By Prof. Pete Carr)](https://www.youtube.com/watch?v=UY7sVKJPTMA)
 - [How to Read a Paper Efficiently (By Prof. Pete Carr) ](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y)
+- [Writing for engineers](https://www.heinrichhartmann.com/posts/writing/)
 
 ## Deep Learning
 
