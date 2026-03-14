@@ -148,6 +148,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/)
 - [The input stack on linux](https://venam.net/blog/unix/2025/11/27/input_devices_linux.html)
 - [EBPF on hard mode](https://feyor.sh/blog/ebpf-on-hard-mode/)
+- [Linux Internals: How /proc/self/mem writes to unwritable memory](https://offlinemark.com/an-obscure-quirk-of-proc/)
 
 ## Hardware
 
