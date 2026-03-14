@@ -147,6 +147,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Garbage Collection for Systems Programmers (RCU)](https://bitbashing.io/gc-for-systems-programmers.html)
 - [Linux Insides](https://0xax.gitbooks.io/linux-insides/content/)
 - [The input stack on linux](https://venam.net/blog/unix/2025/11/27/input_devices_linux.html)
+- [EBPF on hard mode](https://feyor.sh/blog/ebpf-on-hard-mode/)
 
 ## Hardware
 
