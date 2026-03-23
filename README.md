@@ -20,6 +20,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [What actually makes you senior](https://terriblesoftware.org/2025/11/25/what-actually-makes-you-senior/)
 - [The One-True-Way Fallacy: Why Mature Developers Don’t Worship a Single Programming Paradigm](https://www.coderancher.us/2025/11/05/the-one-true-way-fallacy-why-mature-developers-dont-worship-a-single-programming-paradigm/)
 - [Cold Blooded Software](https://dubroy.com/blog/cold-blooded-software/)
+- [Attempting Deep Work, Surviving Long Projects (Jonathan Blow's best talk)](https://www.youtube.com/watch?v=CCVVLAs9mJU)
 
 ## Machine Learning/AI
 
