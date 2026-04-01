@@ -127,6 +127,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Writing Toy Software Is A Joy](https://blog.jsbarretto.com/post/software-is-joy)
 - [The Death of Software Engineering as a Profession](https://www.jasonscheirer.com/weblog/vignettes/)
 - [The Code I'm Still Ashamed Of](https://medium.com/free-code-camp/the-code-im-still-ashamed-of-e4c021dff55e)
+- [I accidentally saved half a million dollars](https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/)
 
 ## Computer Engineering
 
