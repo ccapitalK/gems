@@ -9,7 +9,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 
 # Frontend
 
--[Signals, the push-pull based algorithm](https://willybrauner.com/journal/signal-the-push-pull-based-algorithm)
+- [Signals, the push-pull based algorithm](https://willybrauner.com/journal/signal-the-push-pull-based-algorithm)
 
 ## Software engineering
 
