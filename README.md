@@ -30,6 +30,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 ## Machine Learning/AI
 
 - [But what is a neural network really?](https://www.youtube.com/watch?v=FBpPjjhJGhk)
+- [How the heck does Shazam work?](https://perthirtysix.com/how-the-heck-does-shazam-work)
 
 ## Games
 
