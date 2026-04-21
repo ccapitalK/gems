@@ -10,6 +10,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 # Frontend
 
 - [Signals, the push-pull based algorithm](https://willybrauner.com/journal/signal-the-push-pull-based-algorithm)
+- [JavaScript Visualized - Event Loop, Web APIs, (Micro)task Queue](https://www.youtube.com/watch?v=eiC58R16hb8)
 
 ## Software engineering
 
