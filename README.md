@@ -58,6 +58,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
   - [Part 2](https://www.ralfj.de/blog/2020/12/14/provenance.html)
   - [Part 3](https://www.ralfj.de/blog/2022/04/11/provenance-exposed.html)
 - [The worst programming language of all time (C++)](https://www.youtube.com/watch?v=7fGB-hjc2Gc)
+- [Building a Fast Lock-Free Queue in Modern C++ From Scratch](https://jaysmito.dev/blog/blog/04-fast-lockfree-queues/)
 
 ## Graphics
 
