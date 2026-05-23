@@ -89,6 +89,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Nan-Boxing](https://leonardschuetz.ch/blog/nan-boxing/)
 - [Formal semantics of Node.js Event Loop](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/08/asyncNodeSemantics.pdf)
 - [Primer on how V8 and Spidermonkey work](https://itnext.io/is-it-possible-to-improve-javascript-jit-with-an-aot-pre-step-8e25ecb3590f)
+- [A masochist’s guide to web development (WASM PRIMER)](https://sebastiano.tronto.net/blog/2025-06-06-webdev/)
 
 ## Programming languages
 
