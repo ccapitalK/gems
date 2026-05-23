@@ -169,6 +169,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [The trouble with MEMS](https://semiengineering.com/the-trouble-with-mems/)
 - [Digital Caliper Data Readout](https://www.robotroom.com/Caliper-Digital-Data-Port.html)
 - [Ground vs Earth vs Common vs Negative Terminal](https://electronics.stackexchange.com/questions/123906/ground-vs-earth-vs-common-vs-negative-terminal)
+- [Internal Combustion Engine](https://ciechanow.ski/internal-combustion-engine/)
 
 ## Academics
 
