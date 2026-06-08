@@ -103,6 +103,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Pratt parsers: expression parsing made easy](https://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/)
 - [A worked examples of copy and patch compilation](https://scot.tg/2024/12/22/worked-example-of-copy-and-patch-compilation/)
 - [Why SSA?](https://mcyoung.xyz/2025/10/21/ssa-1/)
+- [A Gentle Introduction to LLVM IR](https://mcyoung.xyz/2023/08/01/llvm-ir/)
 
 ## Algorithms and Data Structures
 
