@@ -139,6 +139,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [The Code I'm Still Ashamed Of](https://medium.com/free-code-camp/the-code-im-still-ashamed-of-e4c021dff55e)
 - [I accidentally saved half a million dollars](https://ludic.mataroa.blog/blog/i-accidentally-saved-half-a-million-dollars/)
 - [Re: [PATCH] oom_pardon, aka don't kill my xlock](https://lwn.net/Articles/104185/)
+- [Friends don't let Friends use Ollama](https://sleepingrobots.com/dreams/stop-using-ollama/)
 
 ## Computer Engineering
 
