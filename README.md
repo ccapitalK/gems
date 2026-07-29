@@ -189,7 +189,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 ## Math
 
 - [The Most Important Counting Concept You’ve (Probably) Never Heard Of](https://www.youtube.com/watch?v=uxjAHkn4VFI) (Bijections)
-- [Visualizing Quaternions](Ben Eater + 3Blue1Brown)
+- [Visualizing Quaternions(Ben Eater + 3Blue1Brown)](https://eater.net/quaternions)
 - [A calculator app? Anyone could make that.](https://chadnauseam.com/coding/random/calculator-app)
 - [Markov Chain Monte Carlo Explained in 10 Minutes](https://www.youtube.com/watch?v=3qodjHRUxAo)
 - [MCMC without all the bullshit](https://www.jeremykun.com/2015/04/06/markov-chain-monte-carlo-without-all-the-bullshit/)
