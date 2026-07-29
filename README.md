@@ -166,6 +166,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [EBPF on hard mode](https://feyor.sh/blog/ebpf-on-hard-mode/)
 - [Linux Internals: How /proc/self/mem writes to unwritable memory](https://offlinemark.com/an-obscure-quirk-of-proc/)
 - [On Apple Exclaves](https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194)
+- [Vectorized Emulation: Hardware accelerated taint tracking at 2 trillion instructions per second](https://gamozolabs.github.io/fuzzing/2018/10/14/vectorized_emulation.html)
 
 ## Hardware
 
