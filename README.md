@@ -144,6 +144,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Re: [PATCH] oom_pardon, aka don't kill my xlock](https://lwn.net/Articles/104185/)
 - [Friends don't let Friends use Ollama](https://sleepingrobots.com/dreams/stop-using-ollama/)
 - [The Treacherous Optimization](https://ridiculousfish.com/blog/posts/old-age-and-treachery.html)
+- [The Root of The Root of All Evil](https://www.youtube.com/watch?v=hpj6r6CjJf8)
 
 ## Computer Engineering
 
