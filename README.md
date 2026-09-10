@@ -9,6 +9,10 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Making Software: Image Compression](https://www.makingsoftware.com/chapters/image-compression)
 - [Music theory for programmers](https://runjs.app/blog/music-theory-for-programmers)
 
+# Coordination / Teamwork
+
+- [Activation Energy](https://homosabiens.substack.com/p/activation-energy-is-a-good-model)
+
 # Frontend
 
 - [Signals, the push-pull based algorithm](https://willybrauner.com/journal/signal-the-push-pull-based-algorithm)
