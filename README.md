@@ -107,6 +107,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [A worked examples of copy and patch compilation](https://scot.tg/2024/12/22/worked-example-of-copy-and-patch-compilation/)
 - [Why SSA?](https://mcyoung.xyz/2025/10/21/ssa-1/)
 - [A Gentle Introduction to LLVM IR](https://mcyoung.xyz/2023/08/01/llvm-ir/)
+- [Static Program Analysis](https://cs.au.dk/%7Eamoeller/spa/)
 
 ## Algorithms and Data Structures
 
