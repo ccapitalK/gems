@@ -177,6 +177,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [On Apple Exclaves](https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194)
 - [Vectorized Emulation: Hardware accelerated taint tracking at 2 trillion instructions per second](https://gamozolabs.github.io/fuzzing/2018/10/14/vectorized_emulation.html)
 - [Actually Queryable Executables (Sqlite3 replacing ELF)](https://fzakaria.com/2026/08/24/actually-queryable-executables)
+- [USB for Software Developers: An introduction to writing userspace USB drivers](https://werwolv.net/posts/usb_for_sw_devs/)
 
 ## Hardware
 
