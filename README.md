@@ -21,6 +21,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 ## Software engineering
 
 - [Data vs Code (aka Objects) OOP conflation and confusion](https://dpc.pw/posts/data-vs-code-aka-objects-oop-conflation-and-confusion)
+- [Telling your computer to do things](https://will-keleher.com/posts/telling-your-computer-to-do-things/)
 - [The absolute minimum every software developer must know about unicode](https://tonsky.me/blog/unicode/)
 - [How I estimate work (Estimates are a political tool for non-engineers in the organisation)](https://www.seangoedecke.com/how-i-estimate-work/)
 - [Performance Excuses Debunked](https://www.youtube.com/watch?v=x2EOOJg8FkA)
