@@ -2,14 +2,14 @@
 
 A (non-exhaustive) list of cool articles about computing I've found on the internet.
 
-# Audio/Image/Video processing
+## Audio/Image/Video processing
 
 - [H264 is magic](https://sidbala.com/h-264-is-magic/)
 - [Laplacian Pyramid Blending](https://www.youtube.com/watch?v=U7qa7i0K9C4)
 - [Making Software: Image Compression](https://www.makingsoftware.com/chapters/image-compression)
 - [Music theory for programmers](https://runjs.app/blog/music-theory-for-programmers)
 
-# Coordination / Teamwork / Communication
+## Coordination / Teamwork / Communication
 
 - [Writing for engineers](https://www.heinrichhartmann.com/posts/writing/)
 - [Activation Energy](https://homosabiens.substack.com/p/activation-energy-is-a-good-model)
@@ -17,7 +17,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [How to Write a Paper in a Weekend (By Prof. Pete Carr)](https://www.youtube.com/watch?v=UY7sVKJPTMA)
 - [How to Read a Paper Efficiently (By Prof. Pete Carr) ](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y)
 
-# Frontend
+## Frontend
 
 - [Signals, the push-pull based algorithm](https://willybrauner.com/journal/signal-the-push-pull-based-algorithm)
 - [JavaScript Visualized - Event Loop, Web APIs, (Micro)task Queue](https://www.youtube.com/watch?v=eiC58R16hb8)
