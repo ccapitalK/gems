@@ -9,9 +9,13 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Making Software: Image Compression](https://www.makingsoftware.com/chapters/image-compression)
 - [Music theory for programmers](https://runjs.app/blog/music-theory-for-programmers)
 
-# Coordination / Teamwork
+# Coordination / Teamwork / Communication
 
+- [Writing for engineers](https://www.heinrichhartmann.com/posts/writing/)
 - [Activation Energy](https://homosabiens.substack.com/p/activation-energy-is-a-good-model)
+- [One Page Design Philosophy](https://www.youtube.com/watch?v=E9_wLks1kAg)
+- [How to Write a Paper in a Weekend (By Prof. Pete Carr)](https://www.youtube.com/watch?v=UY7sVKJPTMA)
+- [How to Read a Paper Efficiently (By Prof. Pete Carr) ](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y)
 
 # Frontend
 
@@ -187,12 +191,6 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [Digital Caliper Data Readout](https://www.robotroom.com/Caliper-Digital-Data-Port.html)
 - [Ground vs Earth vs Common vs Negative Terminal](https://electronics.stackexchange.com/questions/123906/ground-vs-earth-vs-common-vs-negative-terminal)
 - [Internal Combustion Engine](https://ciechanow.ski/internal-combustion-engine/)
-
-## Academics
-
-- [How to Write a Paper in a Weekend (By Prof. Pete Carr)](https://www.youtube.com/watch?v=UY7sVKJPTMA)
-- [How to Read a Paper Efficiently (By Prof. Pete Carr) ](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y)
-- [Writing for engineers](https://www.heinrichhartmann.com/posts/writing/)
 
 ## Deep Learning
 
