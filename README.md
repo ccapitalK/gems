@@ -16,6 +16,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [One Page Design Philosophy](https://www.youtube.com/watch?v=E9_wLks1kAg)
 - [How to Write a Paper in a Weekend (By Prof. Pete Carr)](https://www.youtube.com/watch?v=UY7sVKJPTMA)
 - [How to Read a Paper Efficiently (By Prof. Pete Carr) ](https://www.youtube.com/watch?v=IeaD0ZaUJ3Y)
+- [How to do Research At the MIT AI Lab](https://dspace.mit.edu/entities/publication/e51f8b3d-372d-4536-86ee-229e29f913da)
 
 ## Frontend
 
