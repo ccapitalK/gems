@@ -132,6 +132,7 @@ A (non-exhaustive) list of cool articles about computing I've found on the inter
 - [The Magic Ring Buffer](https://fgiesen.wordpress.com/2012/07/21/the-magic-ring-buffer/)
 - [Lomuto's comeback (branchless quicksort partitioning)](https://dlang.org/blog/2020/05/14/lomutos-comeback/)
 - [Succinct data structures](https://blog.startifact.com/posts/succinct/)
+- [The G-machine in Detail, or How Lazy Evaluation Works](https://amelia.how/posts/the-gmachine-in-detail.html)
 
 ## Folklore
 
